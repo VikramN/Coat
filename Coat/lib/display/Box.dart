@@ -36,8 +36,8 @@ class Box extends DisplayObject {
     @override Resize() {
 
         super.Resize();
-
-        _ctx.clearRect(0, 0, _width, _height);
+        
+        _ctx.clearRect(0,0, _width, _height);
         _ctx.fillStyle = _color.toString();
         _ctx.strokeStyle = _stroke.toString();
         _ctx.lineWidth = _strokeThickness;
