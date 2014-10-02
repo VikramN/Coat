@@ -1,7 +1,7 @@
 Coat
 ====
 
-Simple HTML5 Canvas Dart Engine
+Simple HTML5 Canvas Engine developed in Dart
 
-Coat was used to develop **Nukleus**, which can be played (here)[http://www.creativenuk.in/Nukleus/Game.html]
+Coat was used to develop **Nukleus**, which can be played [http://www.creativenuk.in/Nukleus/Game.html](here)
 
